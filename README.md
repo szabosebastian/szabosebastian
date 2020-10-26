@@ -1,5 +1,4 @@
-### Hi there, I'm Szebi 👋
-
+### Hi there, I'm Szebi 👋<br><br>
 
 :computer: **Tech Stack**
 
@@ -17,7 +16,7 @@
 
 <!-- react,visual studio, docker -->
 
-You can find me on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2]
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [2]: www.linkedin.com/in/szabosebastian

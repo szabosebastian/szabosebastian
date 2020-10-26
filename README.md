@@ -1,7 +1,6 @@
 ### Hi there, I'm Szebi 👋
 
 
-
 :computer: **Tech Stack**
 
 - Java | Spring

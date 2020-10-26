@@ -1,4 +1,4 @@
-### Hi there, I'm Szebi 👋<br><br>
+### Hi there, I'm Szebi 👋
 
 :computer: **Tech Stack**
 

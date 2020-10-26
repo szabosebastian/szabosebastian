@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Szebi 👋
 
-<!--
-**szabosebastian/szabosebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Tech Stack**
 
-Here are some ideas to get you started:
+- Java | Spring
+- HTML | CSS | Thymeleaf
+- MySQL | H2 | JPA | Hibernate
+- Git | Gradle | Spring Security
+- IntelliJ | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:school_satchel: **Familiar with**
+
+- Bootstrap
+- JUnit | Mockito
+- Flyway
+
+<!-- react,visual studio, docker -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: www.linkedin.com/in/szabosebastian
+
+- LinkedIn
+

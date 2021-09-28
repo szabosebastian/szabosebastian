@@ -3,13 +3,15 @@
 :computer: **Tech Stack**
 
 - Java | Spring
-- Git | Gradle | Spring Security
-- MySQL | H2 | JPA | Hibernate
+- Maven/Gradle | Spring Security | Keycloak
+- Git
+- MySQL | H2 | JPA | Hibernate | Liquibase
 - HTML | CSS | Thymeleaf
-- IntelliJ | Postman
+- Cypress | Gatling
 
 :school_satchel: **Familiar with**
 
+- Javascript | Scala | Angular
 - JUnit | Mockito
 - Bootstrap
 - Flyway

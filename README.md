@@ -2,11 +2,12 @@
 
 :computer: **Tech Stack**
 
-- Java | Spring
-- Maven/Gradle | Spring Security | Keycloak
-- Git
-- MySQL | H2 | JPA | Hibernate | Liquibase
-- HTML | CSS | Thymeleaf
+- Java | Kotlin
+- Maven | Gradle
+- Spring Boot | Spring Security
+- JPA | Hibernate | Liquibase
+- Oracle | Postgres
+- Keycloak
 - Cypress | Gatling
 
 :school_satchel: **Familiar with**
@@ -15,8 +16,7 @@
 - JUnit | Mockito
 - Bootstrap
 - Flyway
-
-<!-- react,visual studio, docker -->
+- HTML | CSS 
 
 You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
 
